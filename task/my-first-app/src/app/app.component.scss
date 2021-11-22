@@ -1,0 +1,20 @@
+.nav{
+    background-color: lightcyan;
+    height: 20vh;
+}
+
+.side{
+    background-color: lightblue;
+    width: 200px;
+}
+
+.main{
+    background-color: lavender;
+    width: calc(100vw - 200px);
+}
+
+.row{
+    display: flex;
+    flex-direction: row;
+    height: 100vh;
+}
